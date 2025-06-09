@@ -1,0 +1,20 @@
+# Survey Application
+
+A full-stack web app for collecting survey responses and displaying aggregate results.
+
+## Tech Stack
+- React (frontend)
+- Node.js + Express (backend)
+- MySQL (database)
+
+## Features
+- Validated survey form
+- Live results dashboard
+- Clean UI
+
+## Setup
+1. Clone repo
+2. Run `npm install` in `client/` and `server/`
+3. Create `.env` file with DB credentials
+4. Run backend: `node index.js` in server/
+5. Run frontend: `npm start` in `client/`
